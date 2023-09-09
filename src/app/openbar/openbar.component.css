@@ -1,0 +1,15 @@
+
+
+.navbar{
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+}.btn{
+    padding: 10px 80px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+.navbar-brand{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
